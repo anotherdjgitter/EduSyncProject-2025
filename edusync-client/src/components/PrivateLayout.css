@@ -1,0 +1,36 @@
+/* PrivateLayout.css */
+
+.private-layout-container {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .private-layout-card {
+    background: #ffffff;
+    border-radius: 1rem;
+    padding: 2rem;
+    transition: box-shadow 0.3s ease;
+    border: 1px solid #e6e6e6;
+  }
+  
+  .private-layout-card:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.05);
+  }
+  
+  .btn-logout {
+    background-color: #dc3545;
+    color: white;
+    font-weight: 500;
+    border-radius: 0.5rem;
+    padding: 0.5rem 1.25rem;
+    transition: background-color 0.2s ease;
+  }
+  
+  .btn-logout:hover {
+    background-color: #c82333;
+  }
+  
+  .private-layout-content {
+    margin-top: 1rem;
+  }
+  
