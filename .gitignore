@@ -2,4 +2,9 @@ node_modules/
 bin/
 obj/
 publish/
+publish2/
+publish.zip/
+publish4/
+appsettings.json
+
 
